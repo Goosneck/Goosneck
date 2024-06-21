@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Goosneck
 - 👀 I’m interested in problemsolving (I guess)
-- 🌱 I’m currently getting accustomed to js
+- 🌱 I’m currently getting accustomed to microcontrollers
 
 <!---
 Goosneck/Goosneck is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
